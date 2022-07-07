@@ -1,0 +1,8 @@
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/IotiujoRestApplication.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/config/ConfigTestController.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/secure/MPJWTToken.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/secure/TestSecureController.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/resilient/ResilienceController.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/health/ServiceReadyHealthCheck.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/metric/MetricController.java
+/home/kahm/desarrollo/plataforma_kahmsoft/iotiujo/serviceiujoio/src/main/java/net/kahmsoft/project/iot/iujo/iotiujo/health/ServiceLiveHealthCheck.java

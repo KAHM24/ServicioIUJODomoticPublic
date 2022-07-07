@@ -1,0 +1,4 @@
+net/kahmsoft/project/iot/iujo/iotiujo/IotiujoRestApplication.class
+net/kahmsoft/project/iot/iujo/iotiujo/health/ServiceReadyHealthCheck.class
+net/kahmsoft/project/iot/iujo/iotiujo/secure/MPJWTToken.class
+net/kahmsoft/project/iot/iujo/iotiujo/health/ServiceLiveHealthCheck.class
